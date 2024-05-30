@@ -4,12 +4,9 @@ emu8086 breathes life into classic DOS programs by emulating the historic Intel 
 # Features
 * Authentic 8086 Experience: Run legacy DOS programs and delve into assembly language programming with this accurate emulation of the Intel 8086 architecture.
 * Flexible Configuration: Tailor your emulation environment by adjusting memory size, I/O devices, and other settings for a customized experience.
-* Powerful Debugging Tools: Step through code execution, inspect registers, and analyze memory for efficient troubleshooting and program development.
+* Powerful Debugging Tools: Step through code execution, inspect registers and analyze memory for efficient troubleshooting and program development.
 * Open-Source Potential: Contribute to the project, learn from the source code, and collaborate with other emulator enthusiasts 
 * Unleash Computing History: Explore the foundations of modern computing and rediscover the world of 8086 assembly language programming.
-
-# Letest Release v1.0(03-04-2024) 
-Download from [here.](https://github.com/rohitabdullah/Emu8086)
 
 # How is it to be used?
 Get the Zip file from [here](https://github.com/rohitabdullah/Emu8086)
