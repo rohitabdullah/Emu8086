@@ -11,7 +11,7 @@ emu8086 breathes life into classic DOS programs by emulating the historic Intel 
 # How is it to be used?
 Get the Zip file from [here.](https://github.com/rohitabdullah/Emu8086)
 
-Password is : Rohit onek joss.
+Password is : Rohit onek joss. <- with full-stop
 
 # Steps / User Manual 
 * First download the zip file.
