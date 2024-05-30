@@ -9,7 +9,8 @@ emu8086 breathes life into classic DOS programs by emulating the historic Intel 
 * Unleash Computing History: Explore the foundations of modern computing and rediscover the world of 8086 assembly language programming.
 
 # How is it to be used?
-Get the Zip file from [here](https://github.com/rohitabdullah/Emu8086)
+Get the Zip file from [here.](https://github.com/rohitabdullah/Emu8086)
+
 Password is : Rohit onek joss.
 
 # Steps / User Manual 
