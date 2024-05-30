@@ -20,7 +20,7 @@ Password is : Rohit onek joss.
 * Go along the instructions on the screen.
 * Wait for a few seconds and voila!!! your job's done.
 
-# For Better Understanding, Watch the video tutorial on [Facebook](https://fb.watch/rgF7ExT2Iw/?mibextid=Nif5oz)
+# For Better Understanding, Watch the video tutorial on [Facebook](https://fb.watch/soxc-_cP21/)
 
 # NOTE
 * 📌 This is a complete OPEN-SOURCE project made by an individual group.
